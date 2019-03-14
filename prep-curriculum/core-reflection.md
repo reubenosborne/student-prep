@@ -7,7 +7,7 @@
 - Create a journal
 
 ## Summary
-Reflecting is an incredibly important part of the learning process. By reflecting on what you have done, you strengthen your sense of responsibility for your own learning and awareness of your own meta-cognitive processes. Evidence suggests that by seeing the link you are putting into learning and what you are getting out of it increases your ability to learn and retain information.
+Reflecting is an incredibly important part of the learning process. By reflecting on what you have done, you strengthen your sense of responsibility for your own learning and awareness of your own meta-cognitive processes. Evidence suggests that by seeing the link between what you are putting into learning and what you are getting out of it increases your ability to learn and retain information.
 
 As you progress into Foundations and bootcamp, you will asked to complete mandatory reflections with each challenge.
 
@@ -42,7 +42,7 @@ _Shared via trainingzone_
 Your task is to create a learning log or journal that you will use throughout the prep curriculum.
 
 __Tips to reflecting__
-- Write it / speak it for a lay audience.
+- Write it / speak it for a lay audience
 - Use visual language
 - Attach it to something you already know
 
